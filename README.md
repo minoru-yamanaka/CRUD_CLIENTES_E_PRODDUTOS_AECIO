@@ -1,5 +1,5 @@
 # Sistema de Vendas
-
+![home](/index.png)
 [Este é um sistema simples de gerenciamento de clientes e produtos, desenvolvido com PHP no backend para a API e HTML/CSS/JavaScript no frontend para a interface do usuário.](#)
 
 ## 🚀 Funcionalidades
